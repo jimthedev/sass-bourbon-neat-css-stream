@@ -1,0 +1,30 @@
+{
+  "name": "sass-bourbon-neat-css-stream",
+  "version": "0.0.1",
+  "description": "sass to css transform with bourbon neat",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jcummins/sass-bourbon-neat-css-stream.git"
+  },
+  "keywords": [
+    "sass",
+    "css",
+    "bourbon",
+    "neat"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcummins/sass-bourbon-neat-css-stream/issues"
+  },
+  "homepage": "https://github.com/jcummins/sass-bourbon-neat-css-stream",
+  "dependencies": {
+    "node-sass": "~0.8.1",
+    "through": "~2.3.4",
+    "node-bourbon": "~1.0.0",
+    "node-neat": "~1.1.0"
+  }
+}
